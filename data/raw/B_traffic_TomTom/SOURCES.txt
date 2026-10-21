@@ -1,0 +1,4 @@
+TomTom Traffic Index city pages, values copied as shown on 20 Oct 2026 (2025 edition; includes 2024 comparison).
+Mumbai: https://www.tomtom.com/traffic-index/city/mumbai/
+Bengaluru: https://www.tomtom.com/traffic-index/city/bengaluru/
+Monthly chart values are raw page order. Processing (month/year assignment, speed conversion) is done separately.
